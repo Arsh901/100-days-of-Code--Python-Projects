@@ -3,7 +3,7 @@ import requests
 from datetime import *
 
 """File is divided into 3 different codes. While trying one code keep the rest as comments. 
-                    Though 2nd and 3rd can be can together"""
+                    Though 2nd and 3rd can be run together"""
 
 
 """<-------------------------------Kanye West Quotes-------------------------------->"""
